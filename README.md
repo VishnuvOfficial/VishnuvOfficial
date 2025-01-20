@@ -1,9 +1,8 @@
-<h1 align="center">🌍 Hello World 👋, I'm <span style="color: #4CAF50;">Vishnu V</span></h1>
-<div align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CAF50&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile;Passionate+About+Technology;Exploring+Software+Development" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hello+World+%2C+I'm+Vishnu+V" alt="Typing SVG">
   </a>
-</div>
+</h1>
 
 <h3 align="center">🚀 Information Technology with Data Science Student | Tech Enthusiast</h3>
 
