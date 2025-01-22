@@ -10,11 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=vishhuuu2024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishhuuu2024" alt="vishhuuu2024" />
-  </a> 
-</p
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryub-profile-trophyo-ma/gith)
 
 ---
 
